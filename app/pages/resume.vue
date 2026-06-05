@@ -38,7 +38,7 @@
 				<NuxtImg src="/profile/5.jpg" alt="Portfolio 5" class="h-72 w-full rounded-sm object-cover md:h-48" />
 				<NuxtImg src="/profile/1.jpg" alt="Portfolio 1" class="h-72 w-full rounded-sm object-cover md:h-48" />
 				<NuxtImg src="/profile/2.jpg" alt="Portfolio 2" class="h-72 w-full rounded-sm object-cover md:h-48" />
-				<NuxtImg src="/profile/3.JPG" alt="Portfolio 3" class="h-72 w-full rounded-sm object-cover md:h-48" />
+				<NuxtImg src="/profile/3.jpg" alt="Portfolio 3" class="h-72 w-full rounded-sm object-cover md:h-48" />
 				<NuxtImg src="/profile/4.jpg" alt="Portfolio 4" class="h-72 w-full rounded-sm object-cover md:h-48" />
 			</div>
 		</div>
